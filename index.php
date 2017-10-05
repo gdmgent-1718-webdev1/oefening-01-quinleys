@@ -9,7 +9,7 @@
 
     // Taak 1
     $naam = "Quinten Leysen";
-    echo $naam;
+    echo "Welkom" + $naam;
     // Taak 2
     $string1 = "Hello";
     $string2 = "World";
