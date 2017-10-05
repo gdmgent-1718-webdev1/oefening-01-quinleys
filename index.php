@@ -1,12 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
 <head>
     <meta charset="UTF-8">
-    <title>Taak 1</title>
+    <title>Oefening 1</title>
 </head>
 <body>
     <?php
-
     // Taak 1
     $naam = "Quinten Leysen";
     echo "Welkom" + $naam;
@@ -22,7 +21,6 @@
     echo $x * $y;
     echo $x / $y;
     echo $x % $x;
-
     ?>
 </body>
 </html>
